@@ -1,0 +1,5514 @@
+{
+  "accounts": [
+    {
+      "account": {
+        "agentId": 142,
+        "clientName": "QA FLASH Account 1",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 200,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "Glendale CA dentist",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 6203,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Glendale CA dentist",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "dentist",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "Covina CA antiques",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 6165,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Covina CA antiques",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "antiques",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "91201 cafe",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 158612,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "91201 cafe",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "cafe",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "new york NY insurance",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 15679,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "new york NY insurance",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "insurance",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "Los Angels CA auto repair",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 5981,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Los Angels CA auto repair",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "auto repair",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "Los Angels CA DMA plumbers",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 37827,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Los Angels CA DMA plumbers",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "plumbers",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "Suffield CT all day junk removal",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 26498,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Suffield CT all day junk removal",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "all day junk removal",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "56401 roofing contractors",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 148485,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "56401 roofing contractors",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "roofing contractors",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "91203 rite aid",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 158614,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "91203 rite aid",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "rite aid",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 142,
+        "clientName": "QA FLASH Account 2",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 200,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "Glendale CA dentist",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 6203,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Glendale CA dentist",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "dentist",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "Covina CA antiques",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 6165,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Covina CA antiques",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "antiques",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "91201 cafe",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 158612,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "91201 cafe",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "cafe",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "new york NY insurance",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 15679,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "new york NY insurance",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "insurance",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "Los Angels CA auto repair",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 5981,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Los Angels CA auto repair",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "auto repair",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "Los Angels CA DMA plumbers",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 37827,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Los Angels CA DMA plumbers",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "plumbers",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "Suffield CT all day junk removal",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 26498,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Suffield CT all day junk removal",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "all day junk removal",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 142,
+        "clientName": "QA FLASH Account 3",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 200,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "Glendale CA dentist",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 6203,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Glendale CA dentist",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "dentist",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "Covina CA antiques",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 6165,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Covina CA antiques",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "antiques",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "91201 cafe",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 158612,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "91201 cafe",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "cafe",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "new york NY insurance",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 15679,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "new york NY insurance",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "insurance",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "Los Angels CA auto repair",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 5981,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Los Angels CA auto repair",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "auto repair",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "Los Angels CA DMA plumbers",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 37827,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Los Angels CA DMA plumbers",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "plumbers",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "Suffield CT all day junk removal",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 26498,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Suffield CT all day junk removal",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "all day junk removal",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 142,
+        "clientName": "QA FLASH Account 4",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 200,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "Glendale CA dentist",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 6203,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Glendale CA dentist",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "dentist",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "Covina CA antiques",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 6165,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Covina CA antiques",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "antiques",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "91201 cafe",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 158612,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "91201 cafe",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "cafe",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "new york NY insurance",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 15679,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "new york NY insurance",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "insurance",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "Los Angels CA auto repair",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 5981,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Los Angels CA auto repair",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "auto repair",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "Los Angels CA DMA plumbers",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 37827,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Los Angels CA DMA plumbers",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "plumbers",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "Suffield CT all day junk removal",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 26498,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Suffield CT all day junk removal",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "all day junk removal",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 142,
+        "clientName": "QA FLASH Account 5",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 200,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "Glendale CA dentist",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 6203,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Glendale CA dentist",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "dentist",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "91201 cafe",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 158612,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "91201 cafe",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "cafe",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "Los Angels CA auto repair",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 5981,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Los Angels CA auto repair",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "auto repair",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 142,
+        "clientName": "QA FLASH Account 6",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 200,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "91201 cafe",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 158612,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "91201 cafe",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "cafe",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "Los Angels CA DMA plumbers",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 37827,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Los Angels CA DMA plumbers",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "plumbers",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "Suffield CT all day junk removal",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 26498,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Suffield CT all day junk removal",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "all day junk removal",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "Glendale CA monestary boarding",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 6203,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Glendale CA monestary boarding",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "monestary boarding",
+                  "matchType": "BROAD",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        }
+
+      ]
+    },
+    {
+      "account": {
+        "agentId": 142,
+        "clientName": "QA FLASH Account 7",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 200,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "91724 walmart",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "MOBILE",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 158691,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "91724 walmart",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "walmart",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "Seattle WA target",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "MOBILE",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 6298,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Seattle WA target",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "target",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "Los Angeles eye glasses",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "MOBILE",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 37827,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Los Angeles eye glasses",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "eye glasses",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "91505 vet",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "MOBILE",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 158670,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "91505 vet",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "vet",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "Los Angeles CA plumbers",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "MOBILE",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 37827,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Los Angeles CA plumbers",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "plumbers",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "Glendale CA monestary boarding",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "MOBILE",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 6203,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Glendale CA monestary boarding",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "vet",
+                  "matchType": "BROAD",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "89101 legal service plans",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "MOBILE",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 158314,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "89101 legal service plans",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "legal service plans",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 142,
+        "clientName": "QA FLASH Account 8",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 200,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "91724 walmart",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "MOBILE",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 158691,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "91724 walmart",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "walmart",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "Seattle WA target",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "MOBILE",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 6298,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Seattle WA target",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "target",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "Los Angeles CA eye glasses",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "MOBILE",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 37827,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Los Angeles CA eye glasses",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "eye glasses",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "Los Angeles CA plumbers",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "MOBILE",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 37827,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Los Angeles CA plumbers",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "plumbers",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 142,
+        "clientName": "QA FLASH Account 9",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 200,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "91724 walmart",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "MOBILE",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 158691,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "91724 walmart",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "walmart",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "Seattle WA target",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "MOBILE",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 6298,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Seattle WA target",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "target",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "Los Angeles CA eye glasses",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "MOBILE",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 37827,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Los Angeles CA eye glasses",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "eye glasses",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "Los Angeles CA plumbers",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "MOBILE",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 37827,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Los Angeles CA plumbers",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "plumbers",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 142,
+        "clientName": "QA FLASH Account 10",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 200,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "91724 walmart",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "MOBILE",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 158691,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "91724 walmart",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "walmart",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "Seattle WA target",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "MOBILE",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 6298,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Seattle WA target",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "target",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "Philadelphia PA all day junk removal",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "MOBILE",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 27786,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Philadelphia PA all day junk removal",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "all day junk removal",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "Los Angels CA DMA all day junk removal",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "MOBILE",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 37827,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Los Angels CA DMA all day junk removal",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "all day junk removal",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "10001 all day junk removal",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "MOBILE",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 133549,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "10001 all day junk removal",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "all day junk removal",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 142,
+        "clientName": "QA FLASH Account 11",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 200,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "91724 walmart",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "MOBILE",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 158691,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "91724 walmart",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "walmart",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "Philadelphia PA all day junk removal",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "MOBILE",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 27786,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Philadelphia PA all day junk removal",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "all day junk removal",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "campaignName": "Los Angels CA DMA all day junk removal",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "MOBILE",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 37827,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Los Angels CA DMA all day junk removal",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "all day junk removal",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 142,
+        "clientName": "QA FLASH Account 12",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 200,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "Philadelphia PA all day junk removal",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "MOBILE",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 27786,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Philadelphia PA all day junk removal",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "all day junk removal",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "campaignName": "Los Angels CA DMA all day junk removal",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "MOBILE",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 37827,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Los Angels CA DMA all day junk removal",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "all day junk removal",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 142,
+        "clientName": "QA FLASH Account 13",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 200,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "Philadelphia PA all day junk removal",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "MOBILE",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 27786,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Philadelphia PA all day junk removal",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "all day junk removal",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "campaignName": null,
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "MOBILE",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 37827,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Los Angels CA DMA all day junk removal",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "all day junk removal",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 142,
+        "clientName": "QA FLASH Account 14",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 200,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "Philadelphia PA all day junk removal",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "MOBILE",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 27786,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Philadelphia PA all day junk removal",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "all day junk removal",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 142,
+        "clientName": "QA FLASH Account 15",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 200,
+        "deliverMethod": "STANDARD"
+      },
+      "phoneAdExtensions":
+      {
+        "isCallableOnly": "true",
+        "phoneNumber": "8185551212",
+        "countryCode": null
+      },
+      "locationAdExtensions": [
+        {
+          "addressLine1": "611 N Brand Blvd",
+          "addressLine2": "5th Floor",
+          "city": "Glendale",
+          "state": "CA",
+          "zip": "91203",
+          "latitude": "34.1552800000",
+          "longitude": "-118.2556500000",
+          "companyName": "QA Test Company"
+
+        }],
+      "campaign": [
+        {
+          "campaignName": "Glendale CA dentist",
+          "campaignType": "search_network_only",
+          "networkType": "PARTNER_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 6203,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Glendale CA dentist",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "dentist",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "Covina CA antiques",
+          "campaignType": "search_network_only",
+          "networkType": "PARTNER_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 6165,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Covina CA antiques",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "antiques",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "91724 home depot",
+          "campaignType": "search_network_only",
+          "networkType": "PARTNER_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 158691,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "91724 home depot",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "home depot",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "91724 walmart",
+          "campaignType": "search_network_only",
+          "networkType": "PARTNER_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 158691,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "91724 walmart",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "walmart",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "Philadelphia PA all day junk removal",
+          "campaignType": "search_network_only",
+          "networkType": "PARTNER_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 27786,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Philadelphia PA all day junk removal",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "all day junk removal",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "15146 spas hot tubs",
+          "campaignType": "search_network_only",
+          "networkType": "PARTNER_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 135221,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "15146 spas hot tubs",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "all day junk removal",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 142,
+        "clientName": "QA FLASH Account 16",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 200,
+        "deliverMethod": "STANDARD"
+      },
+      "phoneAdExtensions":
+      {
+        "isCallableOnly": "true",
+        "phoneNumber": "8185551212",
+        "countryCode": null
+      },
+      "locationAdExtensions": [
+        {
+          "addressLine1": "611 N Brand Blvd",
+          "addressLine2": "5th Floor",
+          "city": "Glendale",
+          "state": "CA",
+          "zip": "91203",
+          "latitude": "34.1552800000",
+          "longitude": "-118.2556500000",
+          "companyName": "QA Test Company"
+
+        }],
+      "campaign": [
+        {
+          "campaignName": "Glendale CA dentist",
+          "campaignType": "search_network_only",
+          "networkType": "PARTNER_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 6203,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Glendale CA dentist",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "dentist",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "Covina CA antiques",
+          "campaignType": "search_network_only",
+          "networkType": "PARTNER_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 6165,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Covina CA antiques",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "antiques",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "91724 walmart",
+          "campaignType": "search_network_only",
+          "networkType": "PARTNER_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 158691,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "91724 walmart",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "walmart",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "Philadelphia PA all day junk removal",
+          "campaignType": "search_network_only",
+          "networkType": "PARTNER_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 27786,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Philadelphia PA all day junk removal",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "all day junk removal",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 142,
+        "clientName": "QA FLASH Account 17",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 200,
+        "deliverMethod": "STANDARD"
+      },
+      "phoneAdExtensions":
+      {
+        "isCallableOnly": "true",
+        "phoneNumber": "8185551212",
+        "countryCode": null
+      },
+      "locationAdExtensions": [
+        {
+          "addressLine1": "611 N Brand Blvd",
+          "addressLine2": "5th Floor",
+          "city": "Glendale",
+          "state": "CA",
+          "zip": "91203",
+          "latitude": "34.1552800000",
+          "longitude": "-118.2556500000",
+          "companyName": "QA Test Company"
+
+        }],
+      "campaign": [
+        {
+          "campaignName": "Glendale CA dentist",
+          "campaignType": "search_network_only",
+          "networkType": "PARTNER_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 6203,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Glendale CA dentist",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "dentist",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "Covina CA antiques",
+          "campaignType": "search_network_only",
+          "networkType": "PARTNER_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 6165,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Covina CA antiques",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "antiques",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "91724 walmart",
+          "campaignType": "search_network_only",
+          "networkType": "PARTNER_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 158691,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "91724 walmart",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "walmart",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "Philadelphia PA all day junk removal",
+          "campaignType": "search_network_only",
+          "networkType": "PARTNER_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 27786,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Philadelphia PA all day junk removal",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "all day junk removal",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 142,
+        "clientName": "QA FLASH Account 18",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 200,
+        "deliverMethod": "STANDARD"
+      },
+      "phoneAdExtensions":
+      {
+        "isCallableOnly": "true",
+        "phoneNumber": "8185551212",
+        "countryCode": null
+      },
+      "locationAdExtensions": [
+        {
+          "addressLine1": "611 N Brand Blvd",
+          "addressLine2": "5th Floor",
+          "city": "Glendale",
+          "state": "CA",
+          "zip": "91203",
+          "latitude": "34.1552800000",
+          "longitude": "-118.2556500000",
+          "companyName": "QA Test Company"
+
+        }],
+      "campaign": [
+        {
+          "campaignName": "Glendale CA dentist",
+          "campaignType": "search_network_only",
+          "networkType": "PARTNER_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 6203,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Glendale CA dentist",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "dentist",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "Covina CA antiques",
+          "campaignType": "search_network_only",
+          "networkType": "PARTNER_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 6165,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Covina CA antiques",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "antiques",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "91724 walmart",
+          "campaignType": "search_network_only",
+          "networkType": "PARTNER_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 158691,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "91724 walmart",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "walmart",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "Philadelphia PA all day junk removal",
+          "campaignType": "search_network_only",
+          "networkType": "PARTNER_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 27786,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Philadelphia PA all day junk removal",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "all day junk removal",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 142,
+        "clientName": "QA FLASH Account 19",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 200,
+        "deliverMethod": "STANDARD"
+      },
+      "phoneAdExtensions":
+      {
+        "isCallableOnly": "true",
+        "phoneNumber": "8185551212",
+        "countryCode": null
+      },
+      "locationAdExtensions": [
+        {
+          "addressLine1": "611 N Brand Blvd",
+          "addressLine2": "5th Floor",
+          "city": "Glendale",
+          "state": "CA",
+          "zip": "91203",
+          "latitude": "34.1552800000",
+          "longitude": "-118.2556500000",
+          "companyName": "QA Test Company"
+
+        }],
+      "campaign": [
+        {
+          "campaignName": "Glendale CA dentist",
+          "campaignType": "search_network_only",
+          "networkType": "PARTNER_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 6203,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Glendale CA dentist",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "dentist",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "91724 walmart",
+          "campaignType": "search_network_only",
+          "networkType": "PARTNER_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 158691,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "91724 walmart",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "walmart",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "Philadelphia PA all day junk removal",
+          "campaignType": "search_network_only",
+          "networkType": "PARTNER_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 27786,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Philadelphia PA all day junk removal",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "all day junk removal",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 142,
+        "clientName": "QA Firefly Account 1",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 200,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "USA all day junk removal",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 37643,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "USA all day junk removal",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "all day junk removal",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 142,
+        "clientName": "QA Firefly Account 2",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 200,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "USA emergency trash service indoor",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 37643,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "USA emergency trash service indoor",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "emergency trash service indoor",
+                  "matchType": "BROAD",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 142,
+        "clientName": "QA Firefly Account 3",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 200,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "California dr kimly tran od",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 37854,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "California dr kimly tran od",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "dr kimly tran od",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 142,
+        "clientName": "QA Firefly Account 4",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 200,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "California trust firm",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 37854,
+              "bidModifier": 1.0
+            },
+            {
+              "geoLibId": 37873,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "California trust firm",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "trust firm",
+                  "matchType": "PHRASE",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 142,
+        "clientName": "QA Firefly Account 5",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 200,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "Boston disaster restoration companies",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 37743,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Boston disaster restoration companies",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "disaster restoration companies",
+                  "matchType": "PHRASE",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 142,
+        "clientName": "QA Firefly Account 6",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 200,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "New York refinish appliances",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 37644,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "New York refinish appliances",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "refinish appliances",
+                  "matchType": "PHRASE",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 142,
+        "clientName": "QA Firefly Account 7",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 200,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "Glendale chimney maintenance",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "MOBILE",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 6203,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Glendale chimney maintenance",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "chimney maintenance",
+                  "matchType": "PHRASE",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 142,
+        "clientName": "QA Firefly Account 8",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 200,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "91790 chimney maintenance",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "MOBILE",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 158725,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "91790 chimney maintenance",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "chimney maintenance",
+                  "matchType": "PHRASE",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 142,
+        "clientName": "QA Firefly Day parting",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 200,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "Glendale computer services 1",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "MOBILE",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 6203,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0,
+            "days": [
+              {
+                "day": "monday",
+                "startTime": "0000",
+                "endTime": "2359"
+              }
+            ]
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Glendale computer services 1",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "computer services",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "Glendale computer services 2",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "MOBILE",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 6203,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0,
+            "days": [
+              {
+                "day": "tuesday",
+                "startTime": "0000",
+                "endTime": "2359"
+              }
+            ]
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Glendale computer services 2",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "computer services",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "Glendale computer services 3",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "MOBILE",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 6203,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0,
+            "days": [
+              {
+                "day": "wednesday",
+                "startTime": "0000",
+                "endTime": "2359"
+              }
+            ]
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Glendale computer services 3",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "computer services",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "Glendale computer services 4",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "MOBILE",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 6203,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0,
+            "days": [
+              {
+                "day": "thursday",
+                "startTime": "0000",
+                "endTime": "2359"
+              }
+            ]
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Glendale computer services 4",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "computer services",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "Glendale computer services 5",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "MOBILE",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 6203,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0,
+            "days": [
+              {
+                "day": "friday",
+                "startTime": "0000",
+                "endTime": "2359"
+              }
+            ]
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Glendale computer services 5",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "computer services",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "Glendale computer services 6",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "MOBILE",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 6203,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0,
+            "days": [
+              {
+                "day": "saturday",
+                "startTime": "0000",
+                "endTime": "2359"
+              }
+            ]
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Glendale computer services 6",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "computer services",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "campaignName": "Glendale computer services 7",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "MOBILE",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 6203,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0,
+            "days": [
+              {
+                "day": "sunday",
+                "startTime": "0000",
+                "endTime": "2359"
+              }
+            ]
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Glendale computer services 7",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "computer services",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 142,
+        "clientName": "FF_DMA",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 200,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "FF_DMA",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 37673,
+              "bidModifier": 1.0
+            },
+            {
+              "geoLibId": 37677,
+              "bidModifier": 1.0
+            },
+            {
+              "geoLibId": 37679,
+              "bidModifier": 1.0
+            },
+            {
+              "geoLibId": 37681,
+              "bidModifier": 1.0
+            },
+            {
+              "geoLibId": 37711,
+              "bidModifier": 1.0
+            },
+            {
+              "geoLibId": 37731,
+              "bidModifier": 1.0
+            },
+            {
+              "geoLibId": 37804,
+              "bidModifier": 1.0
+            },
+            {
+              "geoLibId": 37827,
+              "bidModifier": 1.0
+            },
+            {
+              "geoLibId": 37837,
+              "bidModifier": 1.0
+            },
+            {
+              "geoLibId": 161864,
+              "bidModifier": 1.0
+            },
+            {
+              "geoLibId": 37671,
+              "bidModifier": 1.0
+            },
+            {
+              "geoLibId": 37670,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "FF_DMA1",
+              "maxCPC": 11,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "dmatest",
+                  "matchType": "BROAD",
+                  "maxCPC": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 142,
+        "clientName": "FF_CITY",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 200,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "FF_CITY",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 37643,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "FF_CITY1",
+              "maxCPC": 11,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "robotcitytest",
+                  "matchType": "BROAD",
+                  "maxCPC": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 142,
+        "clientName": "FF_UPDATER_LOC_ADDRESS98",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 200,
+        "deliverMethod": "STANDARD"
+      },
+      "locationAdExtensions": [
+        {
+          "addressLine1": "611 N Brand Blvd",
+          "addressLine2": "5th Floor",
+          "city": "Glendale",
+          "state": "CA",
+          "zip": "91203",
+          "phone_number": "8185551212",
+          "latitude": "34.1552800000",
+          "longitude": "-118.2556500000",
+          "companyName": "QA Glendale"
+        },
+        {
+          "addressLine1": "2904 N Broadway",
+          "addressLine2": "5th Floor",
+          "city": "Los Angeles",
+          "state": "CA",
+          "zip": "90031",
+          "phone_number": "3232220666",
+          "latitude": "34.0735452000",
+          "longitude": "-118.2114278000",
+          "companyName": "QA Los Angeles"
+        },
+        {
+          "addressLine1": "45 N Arroyo Pkwy",
+          "city": "Pasadena",
+          "state": "CA",
+          "zip": "91103",
+          "phone_number": "6267770123",
+          "companyName": "QA Pasadena"
+        }
+      ],
+      "phoneAdExtensions": {
+        "isCallableOnly": "true",
+        "phoneNumber": "8185551212",
+        "countryCode": "1"
+      },
+      "campaign": [
+        {
+          "campaignName": "FF_UPDATER_LOC_ADDRESS",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 37643,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "FF_UPDATER_LOC_ADDRESS",
+              "maxCPC": 11,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "ff_updater_loc_address",
+                  "matchType": "BROAD",
+                  "maxCPC": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 142,
+        "clientName": "FF_UPDATER_PHONE",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 200,
+        "deliverMethod": "STANDARD"
+      },
+      "locationAdExtensions": [
+        {
+          "addressLine1": "611 N Brand Blvd",
+          "addressLine2": "5th Floor",
+          "city": "Glendale",
+          "state": "CA",
+          "zip": "91203",
+          "phone_number": "8185551212",
+          "latitude": "34.1552800000",
+          "longitude": "-118.2556500000",
+          "companyName": "QA Glendale"
+        }
+      ],
+      "phoneAdExtensions": {
+        "isCallableOnly": "true",
+        "phoneNumber": "8185551212",
+        "countryCode": "1"
+      },
+      "campaign": [
+        {
+          "campaignName": "FF_UPDATER_PHONE",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 37643,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "FF_UPDATER_PHONE",
+              "maxCPC": 11,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "test desc1",
+                  "description2": "test desc2",
+                  "displayUrl": "www.testdisplayURL.com",
+                  "destinationUrl": "www.testdestURL.com",
+                  "headLine": "test headLine1"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "ff_updater_phone",
+                  "matchType": "BROAD",
+                  "maxCPC": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 142,
+        "clientName": "QA KPL IMP REPORTING",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 200,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "AJAX House Cleaners",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 6203,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "AJAX House Cleaners",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "KPL Reporting",
+                  "description2": "test desc2",
+                  "displayUrl": "www.error1002.com",
+                  "destinationUrl": "http://www.error1002.com",
+                  "headLine": "AJAX House Cleaners"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "ajax house cleaners",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 142,
+        "clientName": "QA KPL Conversion Tracking",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 200,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "Robot Conversion Tracking",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 6203,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "Robot Conversion Tracking",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "Robot Conversion Tracking",
+                  "description2": "test desc2",
+                  "displayUrl": "dev.error1002.com",
+                  "destinationUrl": "http://dev.error1002.com/conversion.html",
+                  "headLine": "YP Conversion Tracking"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "robot conversion",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 142,
+        "clientName": "QA FF ROBOT EXTRACTOR",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 200,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "QA FF ROBOT EXTRACTOR",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 6203,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "QA FF ROBOT EXTRACTOR",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "ROBOT EXTRACTOR",
+                  "description2": "test desc2",
+                  "displayUrl": "www.error1002.com",
+                  "destinationUrl": "http://www.error1002.com",
+                  "headLine": "QA FF ROBOT EXTRACTOR"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "robot extractor",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 142,
+        "clientName": "QA KPL PNI HACK",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 200,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "KPL PNI HACK",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 6203,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "KPL PNI HACK",
+              "maxCPC": 5,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "KPL PNI HACK",
+                  "description2": "test desc2",
+                  "displayUrl": "www.error1002.com",
+                  "destinationUrl": "http://www.error1002.com",
+                  "headLine": "YP KPL PNI HACK"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordStatus": "ACTIVE",
+                  "keywordText": "pni hack",
+                  "matchType": "EXACT",
+                  "maxCPC": 5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

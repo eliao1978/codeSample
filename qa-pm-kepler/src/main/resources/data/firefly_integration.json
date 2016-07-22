@@ -1,0 +1,1896 @@
+{
+  "accounts": [
+    {
+      "account": {
+        "agentId": 103,
+        "clientName": "FF_QAAutomationtest_NEGLoc112",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 5,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "FF_campaign_QAAutomationtestNEGloc1",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "keywordCloseVariant": false,
+          "campaignGeoCode": [
+            {
+              "geoLibId": 5981,
+              "bidModifier": 1.0
+            },
+            {
+              "geoLibId": 5534,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "FF_Adgroup_QAAutomationtestNEGloc1",
+              "maxCPC": 3,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "description line1test{lb.city:bari}",
+                  "description2": "{lb.city:bari}{lb.State:california}{lb.zipcode:98000}",
+                  "displayUrl": "www.walmart.com/?{lb.city:bari}{lb.state:california}",
+                  "destinationUrl": "http://1166.xg4ken.com/media/redir.php?prof=56&camp=86976&affcode=kw1827843&adid={creative}&{loc_physical_ms}&networktype={ifcontent:test1}{ifsearch:test2}&keydevicev={device}&matchtype={matchtype}&keyword={keyword}&kwid={keywordid}&placement={placement}&network={network}&dvcmd={devicemodel}&random={random}&ifmobile={ifmobile:testvalue}&ifnotm={ifnotmobile:valuetest2}&adposition={adposition}&attribute1=testvalue1&{keyword:testing1}&{keyword:testing2}&url[]=http://ad.doubleclick.net/clk;249788532;74878890;m;u=sv1=19fb6208-0786-4524-9a9a-8be8a8418b72:1827843,-,sv3=_kenshoo_clickid_?http://www.autozone.com/autozone/accessories/towing-and-cargo-management/tarp/_/n-25me?filterbykeyword=tarp&fromstring=search",
+                  "headLine": "headline title {lb.city:bari}"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordText": "Technics Negative",
+                  "matchType": "exact",
+                  "maxCPC": 3
+                },
+                {
+                  "keywordText": "Turntable Negative",
+                  "matchType": "exact",
+                  "maxCPC": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 103,
+        "clientName": "FF_QAAutomationtest_NEGLoc22",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 5,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "FF_campaign_QAAutomationtestNEGloc2",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "keywordCloseVariant": false,
+          "campaignGeoCode": [
+            {
+              "geoLibId": 37643,
+              "bidModifier": 1.0
+            },
+            {
+              "geoLibId": 37863,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "FF_Adgroup_QAAutomationtestNEGloc2",
+              "maxCPC": 3,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "description line1test{lb.city:bari}",
+                  "description2": "{lb.city:bari}{lb.State:california}{lb.zipcode:98000}",
+                  "displayUrl": "www.walmart.com/?{lb.city:bari}{lb.state:california}",
+                  "destinationUrl": "http://1166.xg4ken.com/media/redir.php?prof=56&camp=86976&affcode=kw1827843&adid={creative}&{loc_physical_ms}&networktype={ifcontent:test1}{ifsearch:test2}&keydevicev={device}&matchtype={matchtype}&keyword={keyword}&kwid={keywordid}&placement={placement}&network={network}&dvcmd={devicemodel}&random={random}&ifmobile={ifmobile:testvalue}&ifnotm={ifnotmobile:valuetest2}&adposition={adposition}&attribute1=testvalue1&{keyword:testing1}&{keyword:testing2}&url[]=http://ad.doubleclick.net/clk;249788532;74878890;m;u=sv1=19fb6208-0786-4524-9a9a-8be8a8418b72:1827843,-,sv3=_kenshoo_clickid_?http://www.autozone.com/autozone/accessories/towing-and-cargo-management/tarp/_/n-25me?filterbykeyword=tarp&fromstring=search",
+                  "headLine": "headline title {lb.city:bari}"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordText": "Bilstein Negative",
+                  "matchType": "exact",
+                  "maxCPC": 3
+                },
+                {
+                  "keywordText": "Bilstein shocks",
+                  "matchType": "exact",
+                  "maxCPC": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 103,
+        "clientName": "FF_QAAutomationtest_NEGLoc3",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 5,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "FF_campaign_QAAutomationtestNEGloc3",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "keywordCloseVariant": false,
+          "campaignGeoCode": [
+            {
+              "geoLibId": 37827,
+              "bidModifier": 1.0
+            },
+            {
+              "geoLibId": 5534,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "FF_Adgroup_QAAutomationtestNEGloc3",
+              "maxCPC": 3,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "description line1test{lb.city:bari}",
+                  "description2": "{lb.city:bari}{lb.State:california}{lb.zipcode:98000}",
+                  "displayUrl": "www.walmart.com/?{lb.city:bari}{lb.state:california}",
+                  "destinationUrl": "http://1166.xg4ken.com/media/redir.php?prof=56&camp=86976&affcode=kw1827843&adid={creative}&{loc_physical_ms}&networktype={ifcontent:test1}{ifsearch:test2}&keydevicev={device}&matchtype={matchtype}&keyword={keyword}&kwid={keywordid}&placement={placement}&network={network}&dvcmd={devicemodel}&random={random}&ifmobile={ifmobile:testvalue}&ifnotm={ifnotmobile:valuetest2}&adposition={adposition}&attribute1=testvalue1&{keyword:testing1}&{keyword:testing2}&url[]=http://ad.doubleclick.net/clk;249788532;74878890;m;u=sv1=19fb6208-0786-4524-9a9a-8be8a8418b72:1827843,-,sv3=_kenshoo_clickid_?http://www.autozone.com/autozone/accessories/towing-and-cargo-management/tarp/_/n-25me?filterbykeyword=tarp&fromstring=search",
+                  "headLine": "headline title {lb.city:bari}"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordText": "Robotech negative",
+                  "matchType": "exact",
+                  "maxCPC": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 103,
+        "clientName": "FF_QAAutomationtest_NEGLoc44",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 5,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "FF_campaign_QAAutomationtestNEGloc4",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "keywordCloseVariant": false,
+          "campaignGeoCode": [
+            {
+              "geoLibId": 5981,
+              "bidModifier": 1.0
+            },
+            {
+              "geoLocationType": "ZIP",
+              "geoLocationName": "90031",
+              "bidModifier": 1.0,
+              "excluded": "true"
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "FF_Adgroup_QAAutomationtestNEGloc4",
+              "maxCPC": 3,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "description line1test{lb.city:bari}",
+                  "description2": "{lb.city:bari}{lb.State:california}{lb.zipcode:98000}",
+                  "displayUrl": "www.walmart.com/?{lb.city:bari}{lb.state:california}",
+                  "destinationUrl": "http://1166.xg4ken.com/media/redir.php?prof=56&camp=86976&affcode=kw1827843&adid={creative}&{loc_physical_ms}&networktype={ifcontent:test1}{ifsearch:test2}&keydevicev={device}&matchtype={matchtype}&keyword={keyword}&kwid={keywordid}&placement={placement}&network={network}&dvcmd={devicemodel}&random={random}&ifmobile={ifmobile:testvalue}&ifnotm={ifnotmobile:valuetest2}&adposition={adposition}&attribute1=testvalue1&{keyword:testing1}&{keyword:testing2}&url[]=http://ad.doubleclick.net/clk;249788532;74878890;m;u=sv1=19fb6208-0786-4524-9a9a-8be8a8418b72:1827843,-,sv3=_kenshoo_clickid_?http://www.autozone.com/autozone/accessories/towing-and-cargo-management/tarp/_/n-25me?filterbykeyword=tarp&fromstring=search",
+                  "headLine": "headline title {lb.city:bari}"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordText": "Cathedral negative",
+                  "matchType": "exact",
+                  "maxCPC": 3
+                },
+                {
+                  "keywordText": "Cathedral phantoms",
+                  "matchType": "exact",
+                  "maxCPC": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 103,
+        "clientName": "FF_QAAutomationtest_NEGLoc56",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 5,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "FF_campaign_QAAutomationtestNEGloc5",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "keywordCloseVariant": false,
+          "campaignGeoCode": [
+            {
+              "geoLibId": 37854,
+              "bidModifier": 1.0
+            },
+            {
+              "geoLibId": 4478,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "FF_Adgroup_QAAutomationtestNEGloc5",
+              "maxCPC": 3,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "description line1test{lb.city:bari}",
+                  "description2": "{lb.city:bari}{lb.State:california}{lb.zipcode:98000}",
+                  "displayUrl": "www.walmart.com/?{lb.city:bari}{lb.state:california}",
+                  "destinationUrl": "http://1166.xg4ken.com/media/redir.php?prof=56&camp=86976&affcode=kw1827843&adid={creative}&{loc_physical_ms}&networktype={ifcontent:test1}{ifsearch:test2}&keydevicev={device}&matchtype={matchtype}&keyword={keyword}&kwid={keywordid}&placement={placement}&network={network}&dvcmd={devicemodel}&random={random}&ifmobile={ifmobile:testvalue}&ifnotm={ifnotmobile:valuetest2}&adposition={adposition}&attribute1=testvalue1&{keyword:testing1}&{keyword:testing2}&url[]=http://ad.doubleclick.net/clk;249788532;74878890;m;u=sv1=19fb6208-0786-4524-9a9a-8be8a8418b72:1827843,-,sv3=_kenshoo_clickid_?http://www.autozone.com/autozone/accessories/towing-and-cargo-management/tarp/_/n-25me?filterbykeyword=tarp&fromstring=search",
+                  "headLine": "headline title {lb.city:bari}"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordText": "Safeway negative",
+                  "matchType": "exact",
+                  "maxCPC": 3
+                },
+                {
+                  "keywordText": "Safeway groceries",
+                  "matchType": "exact",
+                  "maxCPC": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 103,
+        "clientName": "FF_QAAutomationtest_NEGLoc68",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 5,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "FF_campaign_QAAutomationtestNEGloc6",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "keywordCloseVariant": false,
+          "campaignGeoCode": [
+            {
+              "geoLibId": 37643,
+              "bidModifier": 1.0
+            },
+            {
+              "geoLibId": 37827,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "FF_Adgroup_QAAutomationtestNEGloc6",
+              "maxCPC": 3,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "description line1test{lb.city:bari}",
+                  "description2": "{lb.city:bari}{lb.State:california}{lb.zipcode:98000}",
+                  "displayUrl": "www.walmart.com/?{lb.city:bari}{lb.state:california}",
+                  "destinationUrl": "http://1166.xg4ken.com/media/redir.php?prof=56&camp=86976&affcode=kw1827843&adid={creative}&{loc_physical_ms}&networktype={ifcontent:test1}{ifsearch:test2}&keydevicev={device}&matchtype={matchtype}&keyword={keyword}&kwid={keywordid}&placement={placement}&network={network}&dvcmd={devicemodel}&random={random}&ifmobile={ifmobile:testvalue}&ifnotm={ifnotmobile:valuetest2}&adposition={adposition}&attribute1=testvalue1&{keyword:testing1}&{keyword:testing2}&url[]=http://ad.doubleclick.net/clk;249788532;74878890;m;u=sv1=19fb6208-0786-4524-9a9a-8be8a8418b72:1827843,-,sv3=_kenshoo_clickid_?http://www.autozone.com/autozone/accessories/towing-and-cargo-management/tarp/_/n-25me?filterbykeyword=tarp&fromstring=search",
+                  "headLine": "headline title {lb.city:bari}"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordText": "Kragen negative",
+                  "matchType": "exact",
+                  "maxCPC": 3
+                },
+                {
+                  "keywordText": "Kragen brakes",
+                  "matchType": "exact",
+                  "maxCPC": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 103,
+        "clientName": "FF_QAAutomationtest_NEGLoc77",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 5,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "FF_campaign_QAAutomationtestNEGloc7",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "keywordCloseVariant": false,
+          "campaignGeoCode": [
+            {
+              "geoLibId": 37854,
+              "bidModifier": 1.0
+            },
+            {
+              "geoLocationType": "ZIP",
+              "geoLocationName": "91203",
+              "bidModifier": 1.0,
+              "excluded": "true"
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "FF_Adgroup_QAAutomationtestNEGloc7",
+              "maxCPC": 3,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "description line1test{lb.city:bari}",
+                  "description2": "{lb.city:bari}{lb.State:california}{lb.zipcode:98000}",
+                  "displayUrl": "www.walmart.com/?{lb.city:bari}{lb.state:california}",
+                  "destinationUrl": "http://1166.xg4ken.com/media/redir.php?prof=56&camp=86976&affcode=kw1827843&adid={creative}&{loc_physical_ms}&networktype={ifcontent:test1}{ifsearch:test2}&keydevicev={device}&matchtype={matchtype}&keyword={keyword}&kwid={keywordid}&placement={placement}&network={network}&dvcmd={devicemodel}&random={random}&ifmobile={ifmobile:testvalue}&ifnotm={ifnotmobile:valuetest2}&adposition={adposition}&attribute1=testvalue1&{keyword:testing1}&{keyword:testing2}&url[]=http://ad.doubleclick.net/clk;249788532;74878890;m;u=sv1=19fb6208-0786-4524-9a9a-8be8a8418b72:1827843,-,sv3=_kenshoo_clickid_?http://www.autozone.com/autozone/accessories/towing-and-cargo-management/tarp/_/n-25me?filterbykeyword=tarp&fromstring=search",
+                  "headLine": "headline title {lb.city:bari}"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordText": "Titan negative",
+                  "matchType": "exact",
+                  "maxCPC": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 103,
+        "clientName": "FF_QAAutomationtest_NEGLoc8",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 5,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "FF_campaign_QAAutomationtestNEGloc8",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "keywordCloseVariant": false,
+          "campaignGeoCode": [
+            {
+              "geoLibId": 37827,
+              "bidModifier": 1.0
+            },
+            {
+              "geoLibId": 158614,
+              "bidModifier": 1.0
+            },
+            {
+              "geoLibId": 6203,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "FF_Adgroup_QAAutomationtestNEGloc8",
+              "maxCPC": 3,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "description line1test{lb.city:bari}",
+                  "description2": "{lb.city:bari}{lb.State:california}{lb.zipcode:98000}",
+                  "displayUrl": "www.walmart.com/?{lb.city:bari}{lb.state:california}",
+                  "destinationUrl": "http://1166.xg4ken.com/media/redir.php?prof=56&camp=86976&affcode=kw1827843&adid={creative}&{loc_physical_ms}&networktype={ifcontent:test1}{ifsearch:test2}&keydevicev={device}&matchtype={matchtype}&keyword={keyword}&kwid={keywordid}&placement={placement}&network={network}&dvcmd={devicemodel}&random={random}&ifmobile={ifmobile:testvalue}&ifnotm={ifnotmobile:valuetest2}&adposition={adposition}&attribute1=testvalue1&{keyword:testing1}&{keyword:testing2}&url[]=http://ad.doubleclick.net/clk;249788532;74878890;m;u=sv1=19fb6208-0786-4524-9a9a-8be8a8418b72:1827843,-,sv3=_kenshoo_clickid_?http://www.autozone.com/autozone/accessories/towing-and-cargo-management/tarp/_/n-25me?filterbykeyword=tarp&fromstring=search",
+                  "headLine": "headline title {lb.city:bari}"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordText": "Prius negative",
+                  "matchType": "exact",
+                  "maxCPC": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 103,
+        "clientName": "FF_QAAutomationtest_NEGLoc9",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 5,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "FF_campaign_QAAutomationtestNEGloc9",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "keywordCloseVariant": false,
+          "campaignGeoCode": [
+            {
+              "geoLibId": 37854,
+              "bidModifier": 1.0
+            },
+            {
+              "geoLibId": 5981,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            },
+            {
+              "geoLibId": 37827,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "FF_Adgroup_QAAutomationtestNEGloc9",
+              "maxCPC": 3,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "description line1test{lb.city:bari}",
+                  "description2": "{lb.city:bari}{lb.State:california}{lb.zipcode:98000}",
+                  "displayUrl": "www.walmart.com/?{lb.city:bari}{lb.state:california}",
+                  "destinationUrl": "http://1166.xg4ken.com/media/redir.php?prof=56&camp=86976&affcode=kw1827843&adid={creative}&{loc_physical_ms}&networktype={ifcontent:test1}{ifsearch:test2}&keydevicev={device}&matchtype={matchtype}&keyword={keyword}&kwid={keywordid}&placement={placement}&network={network}&dvcmd={devicemodel}&random={random}&ifmobile={ifmobile:testvalue}&ifnotm={ifnotmobile:valuetest2}&adposition={adposition}&attribute1=testvalue1&{keyword:testing1}&{keyword:testing2}&url[]=http://ad.doubleclick.net/clk;249788532;74878890;m;u=sv1=19fb6208-0786-4524-9a9a-8be8a8418b72:1827843,-,sv3=_kenshoo_clickid_?http://www.autozone.com/autozone/accessories/towing-and-cargo-management/tarp/_/n-25me?filterbykeyword=tarp&fromstring=search",
+                  "headLine": "headline title {lb.city:bari}"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordText": "Craftsman tool negative",
+                  "matchType": "exact",
+                  "maxCPC": 3
+                },
+                {
+                  "keywordText": "Craftsman negative",
+                  "matchType": "exact",
+                  "maxCPC": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 103,
+        "clientName": "FF_QAAutomationtest_NEGLoc10",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 5,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "FF_campaign_QAAutomationtestNEGloc10",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "keywordCloseVariant": false,
+          "campaignGeoCode": [
+            {
+              "geoLibId": 6202,
+              "bidModifier": 1.0
+            },
+            {
+              "geoLibId": 158605,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "FF_Adgroup_QAAutomationtestNEGloc10",
+              "maxCPC": 3,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "description line1test{lb.city:bari}",
+                  "description2": "{lb.city:bari}{lb.State:california}{lb.zipcode:98000}",
+                  "displayUrl": "www.walmart.com/?{lb.city:bari}{lb.state:california}",
+                  "destinationUrl": "http://1166.xg4ken.com/media/redir.php?prof=56&camp=86976&affcode=kw1827843&adid={creative}&{loc_physical_ms}&networktype={ifcontent:test1}{ifsearch:test2}&keydevicev={device}&matchtype={matchtype}&keyword={keyword}&kwid={keywordid}&placement={placement}&network={network}&dvcmd={devicemodel}&random={random}&ifmobile={ifmobile:testvalue}&ifnotm={ifnotmobile:valuetest2}&adposition={adposition}&attribute1=testvalue1&{keyword:testing1}&{keyword:testing2}&url[]=http://ad.doubleclick.net/clk;249788532;74878890;m;u=sv1=19fb6208-0786-4524-9a9a-8be8a8418b72:1827843,-,sv3=_kenshoo_clickid_?http://www.autozone.com/autozone/accessories/towing-and-cargo-management/tarp/_/n-25me?filterbykeyword=tarp&fromstring=search",
+                  "headLine": "headline title {lb.city:bari}"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordText": "Speaker negative",
+                  "matchType": "exact",
+                  "maxCPC": 3
+                },
+                {
+                  "keywordText": "Woofer negative",
+                  "matchType": "exact",
+                  "maxCPC": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 103,
+        "clientName": "FF_QAAutomationtest_NEGLoc10",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 5,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "FF_campaign_QAAutomationtestNEGloc10",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "keywordCloseVariant": false,
+          "campaignGeoCode": [
+            {
+              "geoLibId": 6202,
+              "bidModifier": 1.0
+            },
+            {
+              "geoLibId": 158605,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "FF_Adgroup_QAAutomationtestNEGloc10",
+              "maxCPC": 3,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "description line1test{lb.city:bari}",
+                  "description2": "{lb.city:bari}{lb.State:california}{lb.zipcode:98000}",
+                  "displayUrl": "www.walmart.com/?{lb.city:bari}{lb.state:california}",
+                  "destinationUrl": "http://1166.xg4ken.com/media/redir.php?prof=56&camp=86976&affcode=kw1827843&adid={creative}&{loc_physical_ms}&networktype={ifcontent:test1}{ifsearch:test2}&keydevicev={device}&matchtype={matchtype}&keyword={keyword}&kwid={keywordid}&placement={placement}&network={network}&dvcmd={devicemodel}&random={random}&ifmobile={ifmobile:testvalue}&ifnotm={ifnotmobile:valuetest2}&adposition={adposition}&attribute1=testvalue1&{keyword:testing1}&{keyword:testing2}&url[]=http://ad.doubleclick.net/clk;249788532;74878890;m;u=sv1=19fb6208-0786-4524-9a9a-8be8a8418b72:1827843,-,sv3=_kenshoo_clickid_?http://www.autozone.com/autozone/accessories/towing-and-cargo-management/tarp/_/n-25me?filterbykeyword=tarp&fromstring=search",
+                  "headLine": "headline title {lb.city:bari}"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordText": "Speaker negative",
+                  "matchType": "exact",
+                  "maxCPC": 3
+                },
+                {
+                  "keywordText": "Woofer negative",
+                  "matchType": "exact",
+                  "maxCPC": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 103,
+        "clientName": "FF_QAAutomationtest_NEGLoc11",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 5,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "FF_campaign_QAAutomationtestNEGloc11",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "keywordCloseVariant": false,
+          "campaignGeoCode": [
+            {
+              "geoLibId": 37827,
+              "bidModifier": 1.0
+            },
+            {
+              "geoLibId": 6201,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            },
+            {
+              "geoLibId": 6202,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            },
+            {
+              "geoLibId": 161852,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "FF_Adgroup_QAAutomationtestNEGloc11",
+              "maxCPC": 3,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "description line1test{lb.city:bari}",
+                  "description2": "{lb.city:bari}{lb.State:california}{lb.zipcode:98000}",
+                  "displayUrl": "www.walmart.com/?{lb.city:bari}{lb.state:california}",
+                  "destinationUrl": "http://1166.xg4ken.com/media/redir.php?prof=56&camp=86976&affcode=kw1827843&adid={creative}&{loc_physical_ms}&networktype={ifcontent:test1}{ifsearch:test2}&keydevicev={device}&matchtype={matchtype}&keyword={keyword}&kwid={keywordid}&placement={placement}&network={network}&dvcmd={devicemodel}&random={random}&ifmobile={ifmobile:testvalue}&ifnotm={ifnotmobile:valuetest2}&adposition={adposition}&attribute1=testvalue1&{keyword:testing1}&{keyword:testing2}&url[]=http://ad.doubleclick.net/clk;249788532;74878890;m;u=sv1=19fb6208-0786-4524-9a9a-8be8a8418b72:1827843,-,sv3=_kenshoo_clickid_?http://www.autozone.com/autozone/accessories/towing-and-cargo-management/tarp/_/n-25me?filterbykeyword=tarp&fromstring=search",
+                  "headLine": "headline title {lb.city:bari}"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordText": "Jacuzzi negative",
+                  "matchType": "exact",
+                  "maxCPC": 3
+                },
+                {
+                  "keywordText": "Hottub negative",
+                  "matchType": "exact",
+                  "maxCPC": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 103,
+        "clientName": "FF_QAAutomationtest_NEGLoc11",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 5,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "FF_campaign_QAAutomationtestNEGloc11",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "keywordCloseVariant": false,
+          "campaignGeoCode": [
+            {
+              "geoLibId": 37827,
+              "bidModifier": 1.0
+            },
+            {
+              "geoLibId": 6201,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            },
+            {
+              "geoLibId": 6202,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            },
+            {
+              "geoLibId": 161852,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "FF_Adgroup_QAAutomationtestNEGloc11",
+              "maxCPC": 3,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "description line1test{lb.city:bari}",
+                  "description2": "{lb.city:bari}{lb.State:california}{lb.zipcode:98000}",
+                  "displayUrl": "www.walmart.com/?{lb.city:bari}{lb.state:california}",
+                  "destinationUrl": "http://1166.xg4ken.com/media/redir.php?prof=56&camp=86976&affcode=kw1827843&adid={creative}&{loc_physical_ms}&networktype={ifcontent:test1}{ifsearch:test2}&keydevicev={device}&matchtype={matchtype}&keyword={keyword}&kwid={keywordid}&placement={placement}&network={network}&dvcmd={devicemodel}&random={random}&ifmobile={ifmobile:testvalue}&ifnotm={ifnotmobile:valuetest2}&adposition={adposition}&attribute1=testvalue1&{keyword:testing1}&{keyword:testing2}&url[]=http://ad.doubleclick.net/clk;249788532;74878890;m;u=sv1=19fb6208-0786-4524-9a9a-8be8a8418b72:1827843,-,sv3=_kenshoo_clickid_?http://www.autozone.com/autozone/accessories/towing-and-cargo-management/tarp/_/n-25me?filterbykeyword=tarp&fromstring=search",
+                  "headLine": "headline title {lb.city:bari}"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordText": "Jacuzzi negative",
+                  "matchType": "exact",
+                  "maxCPC": 3
+                },
+                {
+                  "keywordText": "Hottub negative",
+                  "matchType": "exact",
+                  "maxCPC": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 103,
+        "clientName": "FF_QAAutomationtest_NEGLoc11",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 5,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "FF_campaign_QAAutomationtestNEGloc11",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "keywordCloseVariant": false,
+          "campaignGeoCode": [
+            {
+              "geoLibId": 37827,
+              "bidModifier": 1.0
+            },
+            {
+              "geoLibId": 6201,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            },
+            {
+              "geoLibId": 6202,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            },
+            {
+              "geoLibId": 161852,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "FF_Adgroup_QAAutomationtestNEGloc11",
+              "maxCPC": 3,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "description line1test{lb.city:bari}",
+                  "description2": "{lb.city:bari}{lb.State:california}{lb.zipcode:98000}",
+                  "displayUrl": "www.walmart.com/?{lb.city:bari}{lb.state:california}",
+                  "destinationUrl": "http://1166.xg4ken.com/media/redir.php?prof=56&camp=86976&affcode=kw1827843&adid={creative}&{loc_physical_ms}&networktype={ifcontent:test1}{ifsearch:test2}&keydevicev={device}&matchtype={matchtype}&keyword={keyword}&kwid={keywordid}&placement={placement}&network={network}&dvcmd={devicemodel}&random={random}&ifmobile={ifmobile:testvalue}&ifnotm={ifnotmobile:valuetest2}&adposition={adposition}&attribute1=testvalue1&{keyword:testing1}&{keyword:testing2}&url[]=http://ad.doubleclick.net/clk;249788532;74878890;m;u=sv1=19fb6208-0786-4524-9a9a-8be8a8418b72:1827843,-,sv3=_kenshoo_clickid_?http://www.autozone.com/autozone/accessories/towing-and-cargo-management/tarp/_/n-25me?filterbykeyword=tarp&fromstring=search",
+                  "headLine": "headline title {lb.city:bari}"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordText": "Jacuzzi negative",
+                  "matchType": "exact",
+                  "maxCPC": 3
+                },
+                {
+                  "keywordText": "Hottub negative",
+                  "matchType": "exact",
+                  "maxCPC": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 103,
+        "clientName": "FF_QAAutomationtest_NEGLoc12",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 5,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "FF_campaign_QAAutomationtestNEGloc12",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "keywordCloseVariant": false,
+          "campaignGeoCode": [
+            {
+              "geoLibId": 37643,
+              "bidModifier": 1.0
+            },
+            {
+              "geoLibId": 37854,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            },
+            {
+              "geoLibId": 37852,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            },
+            {
+              "geoLibId": 37860,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            },
+            {
+              "geoLibId": 37822,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            },
+            {
+              "geoLibId": 37644,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "FF_Adgroup_QAAutomationtestNEGloc12",
+              "maxCPC": 3,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "description line1test{lb.city:bari}",
+                  "description2": "{lb.city:bari}{lb.State:california}{lb.zipcode:98000}",
+                  "displayUrl": "www.walmart.com/?{lb.city:bari}{lb.state:california}",
+                  "destinationUrl": "http://1166.xg4ken.com/media/redir.php?prof=56&camp=86976&affcode=kw1827843&adid={creative}&{loc_physical_ms}&networktype={ifcontent:test1}{ifsearch:test2}&keydevicev={device}&matchtype={matchtype}&keyword={keyword}&kwid={keywordid}&placement={placement}&network={network}&dvcmd={devicemodel}&random={random}&ifmobile={ifmobile:testvalue}&ifnotm={ifnotmobile:valuetest2}&adposition={adposition}&attribute1=testvalue1&{keyword:testing1}&{keyword:testing2}&url[]=http://ad.doubleclick.net/clk;249788532;74878890;m;u=sv1=19fb6208-0786-4524-9a9a-8be8a8418b72:1827843,-,sv3=_kenshoo_clickid_?http://www.autozone.com/autozone/accessories/towing-and-cargo-management/tarp/_/n-25me?filterbykeyword=tarp&fromstring=search",
+                  "headLine": "headline title {lb.city:bari}"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordText": "Tonka negative",
+                  "matchType": "exact",
+                  "maxCPC": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 103,
+        "clientName": "FF_QAAutomationtest_NEGLoc12",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 5,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "FF_campaign_QAAutomationtestNEGloc12",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "keywordCloseVariant": false,
+          "campaignGeoCode": [
+            {
+              "geoLibId": 37643,
+              "bidModifier": 1.0
+            },
+            {
+              "geoLibId": 37854,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            },
+            {
+              "geoLibId": 37852,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            },
+            {
+              "geoLibId": 37860,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            },
+            {
+              "geoLibId": 37822,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            },
+            {
+              "geoLibId": 37644,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "FF_Adgroup_QAAutomationtestNEGloc12",
+              "maxCPC": 3,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "description line1test{lb.city:bari}",
+                  "description2": "{lb.city:bari}{lb.State:california}{lb.zipcode:98000}",
+                  "displayUrl": "www.walmart.com/?{lb.city:bari}{lb.state:california}",
+                  "destinationUrl": "http://1166.xg4ken.com/media/redir.php?prof=56&camp=86976&affcode=kw1827843&adid={creative}&{loc_physical_ms}&networktype={ifcontent:test1}{ifsearch:test2}&keydevicev={device}&matchtype={matchtype}&keyword={keyword}&kwid={keywordid}&placement={placement}&network={network}&dvcmd={devicemodel}&random={random}&ifmobile={ifmobile:testvalue}&ifnotm={ifnotmobile:valuetest2}&adposition={adposition}&attribute1=testvalue1&{keyword:testing1}&{keyword:testing2}&url[]=http://ad.doubleclick.net/clk;249788532;74878890;m;u=sv1=19fb6208-0786-4524-9a9a-8be8a8418b72:1827843,-,sv3=_kenshoo_clickid_?http://www.autozone.com/autozone/accessories/towing-and-cargo-management/tarp/_/n-25me?filterbykeyword=tarp&fromstring=search",
+                  "headLine": "headline title {lb.city:bari}"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordText": "Tonka negative",
+                  "matchType": "exact",
+                  "maxCPC": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 103,
+        "clientName": "FF_QAAutomationtest_DLI_NEGLOC",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 5,
+        "deliverMethod": "STANDARD"
+      },
+      "locationAdExtensions": [
+        {
+          "addressLine1": "611 N Brand Blvd",
+          "addressLine2": "5th Floor",
+          "city": "Glendale",
+          "state": "CA",
+          "zip": "91203",
+          "phone_number": "8185551212",
+          "latitude": "34.1552800000",
+          "longitude": "-118.2556500000",
+          "companyName": "QA Glendale"
+        },
+        {
+          "addressLine1": "2904 N Broadway",
+          "addressLine2": "5th Floor",
+          "city": "Los Angeles",
+          "state": "CA",
+          "zip": "90031",
+          "phone_number": "3232220666",
+          "latitude": "34.0735452000",
+          "longitude": "-118.2114278000",
+          "companyName": "QA Los Angeles"
+        },
+        {
+          "addressLine1": "45 N Arroyo Pkwy",
+          "city": "Pasadena",
+          "state": "CA",
+          "zip": "91103",
+          "phone_number": "6267770123",
+          "companyName": "QA Pasadena"
+        }
+      ],
+      "campaign": [
+        {
+          "campaignName": "FF_campaign_QAAutomationtestDLINegLoc1",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "keywordCloseVariant": false,
+          "campaignGeoCode": [
+            {
+              "geoLibId": 37854,
+              "bidModifier": 1.0
+            },
+            {
+              "geoLibId": 5981,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            },
+            {
+              "geoLibId": 6202,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            }
+
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "FF_Adgroup_QAAutomationtestDLINegLoc1",
+              "maxCPC": 3,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "description line1test{lb.city:bari}",
+                  "description2": "{lb.city:bari}{lb.State:california}{lb.zipcode:98000}",
+                  "displayUrl": "www.walmart.com/?{lb.city:bari}{lb.state:california}",
+                  "destinationUrl": "http://1166.xg4ken.com/media/redir.php?prof=56&camp=86976&affcode=kw1827843&adid={creative}&{loc_physical_ms}&networktype={ifcontent:test1}{ifsearch:test2}&keydevicev={device}&matchtype={matchtype}&keyword={keyword}&kwid={keywordid}&placement={placement}&network={network}&dvcmd={devicemodel}&random={random}&ifmobile={ifmobile:testvalue}&ifnotm={ifnotmobile:valuetest2}&adposition={adposition}&attribute1=testvalue1&{keyword:testing1}&{keyword:testing2}&url[]=http://ad.doubleclick.net/clk;249788532;74878890;m;u=sv1=19fb6208-0786-4524-9a9a-8be8a8418b72:1827843,-,sv3=_kenshoo_clickid_?http://www.autozone.com/autozone/accessories/towing-and-cargo-management/tarp/_/n-25me?filterbykeyword=tarp&fromstring=search",
+                  "headLine": "headline title {lb.city:bari}"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordText": "BFG Negative",
+                  "matchType": "exact",
+                  "maxCPC": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 103,
+        "clientName": "FF_QAAutomationtest_NEGLoc13",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 5,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "FF_campaign_QAAutomationtestNEGloc13",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "keywordCloseVariant": false,
+          "campaignGeoCode": [
+            {
+              "geoLibId": 5534,
+              "bidModifier": 1.0
+            },
+            {
+              "geoLibId": 37827,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "FF_Adgroup_QAAutomationtestNEGloc13",
+              "maxCPC": 3,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "description line1test{lb.city:bari}",
+                  "description2": "{lb.city:bari}{lb.State:california}{lb.zipcode:98000}",
+                  "displayUrl": "www.walmart.com/?{lb.city:bari}{lb.state:california}",
+                  "destinationUrl": "http://1166.xg4ken.com/media/redir.php?prof=56&camp=86976&affcode=kw1827843&adid={creative}&{loc_physical_ms}&networktype={ifcontent:test1}{ifsearch:test2}&keydevicev={device}&matchtype={matchtype}&keyword={keyword}&kwid={keywordid}&placement={placement}&network={network}&dvcmd={devicemodel}&random={random}&ifmobile={ifmobile:testvalue}&ifnotm={ifnotmobile:valuetest2}&adposition={adposition}&attribute1=testvalue1&{keyword:testing1}&{keyword:testing2}&url[]=http://ad.doubleclick.net/clk;249788532;74878890;m;u=sv1=19fb6208-0786-4524-9a9a-8be8a8418b72:1827843,-,sv3=_kenshoo_clickid_?http://www.autozone.com/autozone/accessories/towing-and-cargo-management/tarp/_/n-25me?filterbykeyword=tarp&fromstring=search",
+                  "headLine": "headline title {lb.city:bari}"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordText": "Deadmau5 negative",
+                  "matchType": "exact",
+                  "maxCPC": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 103,
+        "clientName": "FF_QAAutomationtest_NEGLoc14",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 5,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "FF_campaign_QAAutomationtestNEGloc14",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "keywordCloseVariant": false,
+          "campaignGeoCode": [
+            {
+              "geoLibId": 37827,
+              "bidModifier": 1.0
+            },
+            {
+              "geoLibId": 6202,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "FF_Adgroup_QAAutomationtestNEGloc14",
+              "maxCPC": 3,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "description line1test{lb.city:bari}",
+                  "description2": "{lb.city:bari}{lb.State:california}{lb.zipcode:98000}",
+                  "displayUrl": "www.walmart.com/?{lb.city:bari}{lb.state:california}",
+                  "destinationUrl": "http://1166.xg4ken.com/media/redir.php?prof=56&camp=86976&affcode=kw1827843&adid={creative}&{loc_physical_ms}&networktype={ifcontent:test1}{ifsearch:test2}&keydevicev={device}&matchtype={matchtype}&keyword={keyword}&kwid={keywordid}&placement={placement}&network={network}&dvcmd={devicemodel}&random={random}&ifmobile={ifmobile:testvalue}&ifnotm={ifnotmobile:valuetest2}&adposition={adposition}&attribute1=testvalue1&{keyword:testing1}&{keyword:testing2}&url[]=http://ad.doubleclick.net/clk;249788532;74878890;m;u=sv1=19fb6208-0786-4524-9a9a-8be8a8418b72:1827843,-,sv3=_kenshoo_clickid_?http://www.autozone.com/autozone/accessories/towing-and-cargo-management/tarp/_/n-25me?filterbykeyword=tarp&fromstring=search",
+                  "headLine": "headline title {lb.city:bari}"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordText": "Coffee negative",
+                  "matchType": "exact",
+                  "maxCPC": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 103,
+        "clientName": "FF_QAAutomationtest_NEGLoc13",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 5,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "FF_campaign_QAAutomationtestNEGloc13",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "keywordCloseVariant": false,
+          "campaignGeoCode": [
+            {
+              "geoLibId": 5534,
+              "bidModifier": 1.0
+            },
+            {
+              "geoLibId": 37827,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "FF_Adgroup_QAAutomationtestNEGloc13",
+              "maxCPC": 3,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "description line1test{lb.city:bari}",
+                  "description2": "{lb.city:bari}{lb.State:california}{lb.zipcode:98000}",
+                  "displayUrl": "www.walmart.com/?{lb.city:bari}{lb.state:california}",
+                  "destinationUrl": "http://1166.xg4ken.com/media/redir.php?prof=56&camp=86976&affcode=kw1827843&adid={creative}&{loc_physical_ms}&networktype={ifcontent:test1}{ifsearch:test2}&keydevicev={device}&matchtype={matchtype}&keyword={keyword}&kwid={keywordid}&placement={placement}&network={network}&dvcmd={devicemodel}&random={random}&ifmobile={ifmobile:testvalue}&ifnotm={ifnotmobile:valuetest2}&adposition={adposition}&attribute1=testvalue1&{keyword:testing1}&{keyword:testing2}&url[]=http://ad.doubleclick.net/clk;249788532;74878890;m;u=sv1=19fb6208-0786-4524-9a9a-8be8a8418b72:1827843,-,sv3=_kenshoo_clickid_?http://www.autozone.com/autozone/accessories/towing-and-cargo-management/tarp/_/n-25me?filterbykeyword=tarp&fromstring=search",
+                  "headLine": "headline title {lb.city:bari}"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordText": "Deadmau5 negative",
+                  "matchType": "exact",
+                  "maxCPC": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 103,
+        "clientName": "FF_QAAutomationtest_NEGLoc16",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 5,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "FF_campaign_QAAutomationtestNEGloc16",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "keywordCloseVariant": false,
+          "campaignGeoCode": [
+            {
+              "geoLibId": 37643,
+              "bidModifier": 1.0
+            },
+            {
+              "geoLibId": 37827,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            },
+            {
+              "geoLibId": 37653,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            },
+            {
+              "geoLibId": 37673,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            },
+            {
+              "geoLibId": 37678,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            },
+            {
+              "geoLibId": 37679,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            },
+            {
+              "geoLibId": 37680,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            },
+            {
+              "geoLibId": 37719,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            },
+            {
+              "geoLibId": 37758,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            },
+            {
+              "geoLibId": 37781,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            },
+            {
+              "geoLibId": 37785,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            },
+            {
+              "geoLibId": 37844,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            },
+            {
+              "geoLibId": 37844,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            },
+            {
+              "geoLibId": 37889,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            },
+            {
+              "geoLibId": 37901,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            },
+            {
+              "geoLibId": 37852,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            },
+            {
+              "geoLibId": 37896,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            },
+            {
+              "geoLibId": 37884,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            },
+            {
+              "geoLibId": 37860,
+              "bidModifier": 1.0,
+              "excluded": "true"
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "FF_Adgroup_QAAutomationtestNEGloc16",
+              "maxCPC": 3,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "description line1test{lb.city:bari}",
+                  "description2": "{lb.city:bari}{lb.State:california}{lb.zipcode:98000}",
+                  "displayUrl": "www.walmart.com/?{lb.city:bari}{lb.state:california}",
+                  "destinationUrl": "http://1166.xg4ken.com/media/redir.php?prof=56&camp=86976&affcode=kw1827843&adid={creative}&{loc_physical_ms}&networktype={ifcontent:test1}{ifsearch:test2}&keydevicev={device}&matchtype={matchtype}&keyword={keyword}&kwid={keywordid}&placement={placement}&network={network}&dvcmd={devicemodel}&random={random}&ifmobile={ifmobile:testvalue}&ifnotm={ifnotmobile:valuetest2}&adposition={adposition}&attribute1=testvalue1&{keyword:testing1}&{keyword:testing2}&url[]=http://ad.doubleclick.net/clk;249788532;74878890;m;u=sv1=19fb6208-0786-4524-9a9a-8be8a8418b72:1827843,-,sv3=_kenshoo_clickid_?http://www.autozone.com/autozone/accessories/towing-and-cargo-management/tarp/_/n-25me?filterbykeyword=tarp&fromstring=search",
+                  "headLine": "headline title {lb.city:bari}"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordText": "LED negative",
+                  "matchType": "exact",
+                  "maxCPC": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 103,
+        "clientName": "FF_DKI_QAAutomationtest1",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 5,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "FF_DKI_campaign_QAAutomationtest1",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "campaignGeoCode": [
+            {
+              "geoLibId": 6203,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "FF_Adgroup_DKI_QAAutomationtest1",
+              "maxCPC": 3,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "approvalStatus": "APPROVED",
+                  "description1": "More {Keyword:teleVISION} new {KeyWord:brand}",
+                  "description2": "Low Prices {KEYWord:microwave} {KeyWORD:gas}",
+                  "displayUrl": "www.test.com/{KEYword:juicer}{keywORD:MIXER}",
+                  "destinationUrl": "http://www.homedepot.com/b/Appliances/N-5yc1vZbv1w?cm_mmc=SEM|ypnational|{Keyword:defurl2}",
+                  "headLine": "Priyanka FF {keyword:Refrigerator}"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordText": "Toddlers toys",
+                  "matchType": "BROAD",
+                  "maxCPC": 3,
+                  "approvalStatus": "APPROVED"
+                },
+                {
+                  "keywordText": "Devansh Devanshi Shivangi Surat",
+                  "matchType": "BROAD",
+                  "maxCPC": 3,
+                  "approvalStatus": "APPROVED"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 103,
+        "clientName": "FF_DKI_QAAutomationtestnew2",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 5,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "FF_DKI_campaign_QAAutomationtestnew2",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test2.com",
+          "keywordCloseVariant": false,
+          "campaignGeoCode": [
+            {
+              "geoLibId": 6203,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "FF_Adgroup_DKI_QAAutomationtestnew2",
+              "maxCPC": 3,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "approvalStatus": "APPROVED",
+                  "description1": "Desc1{KeyWord:Bricks}{keyword:Showroom}",
+                  "description2": "DESC2{KeyWORD:DEFAULT test}{KEYword:default}",
+                  "displayUrl": "www.HomeDepot.com/{KEYWord:marble}",
+                  "destinationUrl": "http://www.homedepot.com/b/Appliances/N-5yc1vZbv1w?cm_mmc=SEM|ypnational|{KeywORD:defurl2}{KEYWORD:test2}",
+                  "headLine": "{KeyWORD:brick STORE}{Keyword:test}"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordText": "monzonite",
+                  "matchType": "EXACT",
+                  "maxCPC": 3,
+                  "approvalStatus": "APPROVED"
+                },
+                {
+                  "keywordText": "ROCK stones",
+                  "matchType": "EXACT",
+                  "maxCPC": 3,
+                  "approvalStatus": "APPROVED"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 103,
+        "clientName": "FF_DKI_QAAutomationtestnew3",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 5,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "FF_DKI_campaign_QAAutomationtestnew3",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test2.com",
+          "keywordCloseVariant": false,
+          "campaignGeoCode": [
+            {
+              "geoLibId": 6203,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "FF_Adgroup_DKI_QAAutomationtestnew3",
+              "maxCPC": 3,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "Hindu {Keyword:Temples in Bari}",
+                  "description2": "DESC2{KeyWORD:Mandir}{KEYword:test}",
+                  "displayUrl": "www.HomeDepot.com/{KEYWord:hindutemple}",
+                  "destinationUrl": "http://www.homedepot.com/b/Appliances/N-5yc1vZbv1w?cm_mmc=SEM|ypnational|{KeywORD:defurl2}{KEYWORD:test2}",
+                  "headLine": "Hindu {KeyWord:Durga temple}"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordText": "Siddhi Vinayak",
+                  "matchType": "EXACT",
+                  "maxCPC": 3,
+                  "destinationURL": "www.priyankamandir.com/{KeyWORD:kailama}{Keyword:durgama}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 103,
+        "clientName": "FF_DKI_QAAutomationtestnew4",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 5,
+        "deliverMethod": "STANDARD"
+      },
+      "campaign": [
+        {
+          "campaignName": "FF_DKI_campaign_QAAutomationtestnew4",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test2.com",
+          "keywordCloseVariant": false,
+          "campaignGeoCode": [
+            {
+              "geoLibId": 6203,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "FF_Adgroup_DKI_QAAutomationtestnew4",
+              "adGroupStatus": "ACTIVE",
+              "maxCPC": 3,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "Hindu {Keyword:Temples in Bari}",
+                  "description2": "DESC2{KeyWORD:Mandir}{KEYword:test}",
+                  "displayUrl": "www.HomeDepot.com/{KEYWord:hindutemple}",
+                  "destinationUrl": "http://www.homedepot.com/b/Appliances/N-5yc1vZbv1w?cm_mmc=SEM|ypnational|{KeywORD:defurl2}{KEYWORD:test2}",
+                  "headLine": "Hindu {KeyWord:Durga temple}"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordText": "Ganesh Temples in Bari",
+                  "matchType": "EXACT",
+                  "maxCPC": 3,
+                  "destinationURL": "www.priyankatemple.com/{KeyWORD:kailama}{Keyword:durgama}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "account": {
+        "agentId": 103,
+        "clientName": "FF_QAAutomationtest_DKI_DynamicLoc1",
+        "timeZone": "America/Los_Angeles"
+      },
+      "budget": {
+        "amount": 5,
+        "deliverMethod": "STANDARD"
+      },
+      "locationAdExtensions": [
+        {
+          "addressLine1": "611 N Brand Blvd",
+          "addressLine2": "5th Floor",
+          "city": "Glendale",
+          "state": "CA",
+          "zip": "91203",
+          "phone_number": "8185551212",
+          "latitude": "34.1552800000",
+          "longitude": "-118.2556500000",
+          "companyName": "QA Glendale"
+        },
+        {
+          "addressLine1": "2904 N Broadway",
+          "city": "Los Angeles",
+          "state": "CA",
+          "zip": "90031",
+          "phone_number": "3232220666",
+          "latitude": "34.0735452000",
+          "longitude": "-118.2114278000",
+          "companyName": "QA Los Angeles"
+        }
+      ],
+      "campaign": [
+        {
+          "campaignName": "FF_campaign_QAAutomationtestDKIdynamicloc1",
+          "campaignType": "search_network_only",
+          "networkType": "SEARCH_NETWORK",
+          "biddingStrategyType": "MANUAL_CPC",
+          "adRotation": "OPTIMIZE_FOR_CLICKS",
+          "deviceType": "DESKTOP",
+          "mobileBitModifier": 1.00,
+          "desktopBidModifier": 1.00,
+          "dynamicUrl": "www.test.com",
+          "keywordCloseVariant": false,
+          "campaignGeoCode": [
+            {
+              "geoLibId": 37854,
+              "bidModifier": 1.0
+            }
+          ],
+          "campaignAdSchedule": {
+            "bidModifier": 1.0
+          },
+          "adGroup": [
+            {
+              "adGroupName": "FF_Adgroup_QAAutomationtestDKIdynamicloc1",
+              "maxCPC": 3,
+              "ad": [
+                {
+                  "adType": "TEXT",
+                  "description1": "desc {KEYWORD:town}{lb.city:bari}",
+                  "description2": "{lb.city:bari}{KEYWORD:town}{lb.State:california}{lb.zipcode:98000}",
+                  "displayUrl": "www.walmart.com/?{lb.city:bari}{keyword:town}{lb.state:california}",
+                  "destinationUrl": "http://1166.xg4ken.com/media/redir.php?prof=56&camp=86976&affcode=kw1827843&adid={creative}&{loc_physical_ms}&networktype={ifcontent:test1}{ifsearch:test2}&keydevicev={device}&matchtype={matchtype}&keyword={keyword}&kwid={keywordid}&placement={placement}&network={network}&dvcmd={devicemodel}&random={random}&ifmobile={ifmobile:testvalue}&ifnotm={ifnotmobile:valuetest2}&adposition={adposition}&attribute1=testvalue1&{keyword:testing1}&{keyword:testing2}&url[]=http://ad.doubleclick.net/clk;249788532;74878890;m;u=sv1=19fb6208-0786-4524-9a9a-8be8a8418b72:1827843,-,sv3=_kenshoo_clickid_?http://www.autozone.com/autozone/accessories/towing-and-cargo-management/tarp/_/n-25me?filterbykeyword=tarp&fromstring=search",
+                  "headLine": "headline {lb.city:bari} {KEYWORD:town}"
+                }
+              ],
+              "keyword": [
+                {
+                  "keywordText": "Fox Shocks",
+                  "matchType": "exact",
+                  "maxCPC": 3
+                },
+                {
+                  "keywordText": "Fox Racing",
+                  "matchType": "exact",
+                  "maxCPC": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
