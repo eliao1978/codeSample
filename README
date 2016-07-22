@@ -1,15 +1,15 @@
 Sample Code for Review
 
-Highlights</br>
-1. The project uses Maven to manage properties, repos, profiles, and dependencies. There is one parent level pom.xml as well as 2 child level pom.xml located in each module. </br></br>
-2. The project contains 2 modules a) qa-common and b) qa-pm-kepler. qa-common provides common libraries, services, and utilities shared by other modules. qa-pm-kepler was created to cover testing for one specific application named “kepler”. </br></br>
-3. For qa-common, there are 4 major sub folders:</br>
-    a. enums - define various type of enums such as error msg, selenium locator type, WebDriver shared by the framework. </br>
-    b. selenium - define selenium driver interface and implementation of each WebDriver (Chrome, FireFox, Safari). </br>
-    c. util - define static utility class for log4j, REST api CRUL action, database query connection/execution, and HTTP request/response. </br>
-    d. pm - define interface and implementation to interact with application service via dependency injection. </br></br> 
-4. For qa-pm-kepler</br>
-    a. com.yp.pm.kp - define various DTO objects and mappers for REST api tests. </br>
-    b. com.yp.pm.ui - define page object design pattern for UI tests. </br>
-    c. com.yp.pm.ui - contain utiltity that runs as cron job to manage test data. </br>
+High Level Descriptions:
+1. The project uses Maven to manage properties, repos, profiles, and dependencies. There is one parent level pom.xml as well as 2 child level pom.xml located in each module.
+2. The project contains 2 modules a) qa-common and b) qa-pm-kepler. qa-common provides common libraries, services, and utilities shared by other modules. qa-pm-kepler was created to cover testing for one specific application named “kepler”.
+3. For qa-common, there are 4 major sub folders:
+    a. enums - define various type of enums such as error msg, selenium locator type, WebDriver shared by the framework.
+    b. selenium - define selenium driver interface and implementation of each WebDriver (Chrome, FireFox, Safari).
+    c. util - define static utility class for log4j, REST api CRUL action, database query connection/execution, and HTTP request/response.
+    d. pm - define interface and implementation to interact with application service via dependency injection. 
+4. For qa-pm-kepler
+    a. com.yp.pm.kp - define various DTO objects and mappers for REST api tests.
+    b. com.yp.pm.ui - define page object design pattern for UI tests.
+    c. com.yp.pm.ui - contain utiltity that runs as cron job to manage test data.
     d. The "test" folder contains various junit tests for UI and API user cases.   
